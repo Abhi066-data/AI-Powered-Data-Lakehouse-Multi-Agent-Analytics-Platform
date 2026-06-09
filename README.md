@@ -264,15 +264,17 @@ streamlit run dashboard.py
 
 ## Dashboard
 
-![image alt](<img width="1319" height="743" alt="image" src="https://github.com/user-attachments/assets/2b913a06-e34a-4c80-b82c-0c6b981fd3d6" />)
+![image alt](https://github.com/Abhi066-data/AI-Powered-Data-Lakehouse-Multi-Agent-Analytics-Platform/blob/main/Screenshot%202026-06-09%20014618.png?raw=true)
+
 
 ## Generated SQL
 
-![image alt](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0da7b94a-29d4-4015-9dd0-1fad9601176d" />)
+![image alt](https://github.com/Abhi066-data/AI-Powered-Data-Lakehouse-Multi-Agent-Analytics-Platform/blob/main/Screenshot%202026-06-09%20015306.png?raw=true)
+
 
 ## Business Insights
 
-![image alt](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3c7ca80b-72b7-4196-b002-b97e4eaf9785" />)
+![image alt](https://github.com/Abhi066-data/AI-Powered-Data-Lakehouse-Multi-Agent-Analytics-Platform/blob/main/Screenshot%202026-06-09%20015340.png?raw=true)
 
 ---
 
