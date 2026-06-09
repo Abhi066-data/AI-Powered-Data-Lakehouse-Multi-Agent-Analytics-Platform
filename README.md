@@ -264,15 +264,15 @@ streamlit run dashboard.py
 
 ## Dashboard
 
-(Add dashboard screenshot here)
+![image alt](<img width="1319" height="743" alt="image" src="https://github.com/user-attachments/assets/2b913a06-e34a-4c80-b82c-0c6b981fd3d6" />)
 
 ## Generated SQL
 
-(Add SQL screenshot here)
+![image alt](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0da7b94a-29d4-4015-9dd0-1fad9601176d" />)
 
 ## Business Insights
 
-(Add insight screenshot here)
+![image alt](<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3c7ca80b-72b7-4196-b002-b97e4eaf9785" />)
 
 ---
 
