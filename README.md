@@ -13,6 +13,8 @@ The platform combines AWS Data Engineering services with Local LLM-powered AI Ag
 
 This project simulates a real-world enterprise analytics system used by data-driven organizations.
 
+![image alt](https://github.com/Abhi066-data/AI-Powered-Data-Lakehouse-Multi-Agent-Analytics-Platform/blob/main/ChatGPT%20Image%20Jun%209,%202026,%2003_30_15%20AM.png?raw=true)
+
 ---
 
 # 🎯 Problem Statement
